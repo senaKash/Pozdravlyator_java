@@ -25,3 +25,6 @@
 ## Запуск
 
 mvn spring-boot:run
+
+
+<img width="1132" height="588" alt="image" src="https://github.com/user-attachments/assets/f4d5b73e-aaae-4ca4-bc49-737976ae237a" />
