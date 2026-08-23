@@ -1,30 +1,27 @@
-# birthday-management-api
+# Birthday Management API
 
-Реализован функционал 4го уровня без SPA
+REST API для хранения и управления информацией о днях рождения.
 
-## Стек технологий
+## Возможности
 
-- Spring Boot
-- Spring Data JPA
-- PostgreSQL
-- H2 (test profile)
-- Swagger / OpenAPI
-- JUnit 5
+- просмотр всех дней рождения;
+- поиск сегодняшних и ближайших дней рождения;
+- добавление, редактирование и удаление записей;
+- загрузка и отображение фотографий;
+- документация API через Swagger/OpenAPI;
+- тестирование с JUnit 5.
 
-## Функциональность
+## Стек
 
-- Просмотр всех ДР
-- Просмотр сегодняшних ДР
-- Просмотр ближайших ДР (с параметром days)
-- Добавление
-- Удаление
-- Редактирование
-- Загрузка и отображение фото
-- Тесты
+`Java` · `Spring Boot` · `Spring Data JPA` · `PostgreSQL` · `H2` · `Swagger/OpenAPI` · `JUnit 5`
 
 ## Запуск
 
+```bash
 mvn spring-boot:run
+```
+
+После запуска документация API доступна через Swagger UI.
 
 
 <img width="1132" height="588" alt="image" src="https://github.com/user-attachments/assets/f4d5b73e-aaae-4ca4-bc49-737976ae237a" />
