@@ -1,4 +1,4 @@
-# Pozdravlyator_java
+# birthday-management-api
 
 Реализован функционал 4го уровня без SPA
 
